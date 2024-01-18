@@ -13,7 +13,7 @@ In the realworld callcenters always work robust and very fast there you need to 
 In call centers sentiment analysis is a very common approach performed by data analysts and data scientists in order to see the distribution of the customer reviews. For this project, we will be generally working to understand the results of callcenter data to see the critiques we mentioned above. 
 
 ## Setup
-We will use "call_cener.csv" data including the customer calls from various United States' cities. 
+We will use "us_call_center_data.csv" data including the customer calls from various United States' cities. 
 
 You can find our data in our resources section. By the way you can use your company's own call center data for this project.
 
