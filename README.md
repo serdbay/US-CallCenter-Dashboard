@@ -21,7 +21,9 @@ You can find our data in our resources section. By the way you can use your comp
 In this project our goal is to work through PowerBI to help the company understand some problems if they need to such as:
 
 *Implement the new customer channels, 
+
 *Keep the old customer channels,
+
 *Analyzing the sentiment of customers and callcenter's cities.
 
 If your company has a callcenter likewise and you need to analyze your customer's data of your call center this project may be a template for your dashboard.
