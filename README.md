@@ -1,5 +1,5 @@
 # US CallCenter Dashboard 
-In this project we will try to prepare an US callcenter dashboard with PowerBI including total calls, total call durations, average call duration, response time etc. 
+In this project we will try to prepare an US callcenter dashboard with Power BI including total calls, total call durations, average call duration, response time etc. 
 
 In the realworld callcenters always work robust and very fast there you need to get the data you want immediately. With this callcenter dashboard we can identify and determine the customer data that indicates CSAT (Customer satisfaction score), city, channel and sentiment also. 
 
